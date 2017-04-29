@@ -1,0 +1,16 @@
+.header {
+  cursor: pointer;
+}
+
+a {
+  display: inline-block;
+  width: 100%;
+}
+
+div:active {
+  outline: none;
+}
+
+h2 {
+  display: inline-block;
+}
