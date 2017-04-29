@@ -1,6 +1,6 @@
 {
   "name": "axl-projects-lite",
-  "version": "1.0.0",
+  "version": "1.0.1-prerelease",
   "license": "ISC",
   "scripts": {
     "ng": "ng",
